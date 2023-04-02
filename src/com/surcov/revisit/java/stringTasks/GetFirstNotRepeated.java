@@ -1,4 +1,4 @@
-package com.surcov.revisit.java;
+package com.surcov.revisit.java.stringTasks;
 
 import java.util.*;
 import java.util.concurrent.CopyOnWriteArrayList;

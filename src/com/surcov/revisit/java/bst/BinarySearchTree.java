@@ -1,4 +1,4 @@
-package com.surcov.revisit.tree;
+package com.surcov.revisit.java.bst;
 
 import java.util.Stack;
 

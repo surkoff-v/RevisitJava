@@ -1,4 +1,4 @@
-package com.surcov.revisit.java;
+package com.surcov.revisit.java.stringTasks;
 
 import java.sql.SQLOutput;
 import java.util.*;

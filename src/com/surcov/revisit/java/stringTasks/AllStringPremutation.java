@@ -1,4 +1,4 @@
-package com.surcov.revisit.java;
+package com.surcov.revisit.java.stringTasks;
 
 public class AllStringPremutation {
 

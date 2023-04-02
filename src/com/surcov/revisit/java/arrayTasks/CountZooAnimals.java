@@ -1,4 +1,4 @@
-package com.surcov.revisit.java;
+package com.surcov.revisit.java.arrayTasks;
 
 import java.sql.SQLOutput;
 import java.util.Arrays;
