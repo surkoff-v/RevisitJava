@@ -2,8 +2,8 @@ package com.surcov.revisit.java.designPatterns.templateMethod;
 
 public abstract class AbstractHouseConstruction {
 
-    public final void bild(){
-        fundation();
+    public final void build(){
+        foundation();
         walls();
         windows();
     }
@@ -12,7 +12,7 @@ public abstract class AbstractHouseConstruction {
 
     protected abstract void walls();
 
-    private void fundation() {
-        System.out.println("build fundation");
+    private void foundation() {
+        System.out.println("build foundation");
     }
 }
