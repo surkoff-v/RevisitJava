@@ -12,6 +12,6 @@ public class ConcreteDecoratorA extends Decorator {
     @Override
     public void execute() {
         super.execute();
-        System.out.printf("I have added state %s",state);
+        System.out.printf("I have added A state %s",state);
     }
 }
